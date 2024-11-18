@@ -1,0 +1,43 @@
+ [
+    {
+      "id": 1,
+      "name": "Rolex Submariner",
+      "brand": "Rolex",
+      "model": "Submariner",
+      "price": 10000,
+      "features": ["Waterproof", "Automatic Movement", "Stainless Steel"]
+    },
+    {
+      "id": 2,
+      "name": "Omega Speedmaster",
+      "brand": "Omega",
+      "model": "Speedmaster",
+      "price": 6000,
+      "features": ["Chronograph", "Moon Phase", "Manual Winding"]
+    },
+    {
+      "id": 3,
+      "name": "Casio G-Shock",
+      "brand": "Casio",
+      "model": "G-Shock",
+      "price": 150,
+      "features": ["Shock Resistant", "Digital Display", "Solar Power"]
+    },
+    {
+      "id": 4,
+      "name": "Tag Heuer Carrera",
+      "brand": "Tag Heuer",
+      "model": "Carrera",
+      "price": 3500,
+      "features": ["Chronograph", "Automatic Movement", "Sapphire Crystal"]
+    },
+    {
+      "id": 5,
+      "name": "Seiko Prospex",
+      "brand": "Seiko",
+      "model": "Prospex",
+      "price": 500,
+      "features": ["Diver's Watch", "Solar Power", "Stainless Steel"]
+    }
+  ]
+  
